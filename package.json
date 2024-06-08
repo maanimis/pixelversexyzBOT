@@ -1,0 +1,16 @@
+{
+  "name": "pixelversexyzbot",
+  "version": "1.0.0",
+  "description": "autoclaim bot for https://t.me/pixelversexyzbot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
